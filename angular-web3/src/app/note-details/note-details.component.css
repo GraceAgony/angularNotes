@@ -1,0 +1,27 @@
+#noteDetails{
+  font-family: 'Fredoka One', cursive;
+  display: flex;
+  flex-direction: column;
+  background-color: #F9DDE4;
+  border-radius: 10px;
+  border: solid 3px #6D4C93;
+  width: 15%;
+  padding: 2% 5%;
+  margin: auto;
+  color: #B473AC;
+  width: 80%;
+}
+h3{
+  color: #9175B0;
+  text-align: center;
+}
+button{
+  color: #96478C;
+  height: 25px;
+  border-radius: 10px;
+  border: 2px solid #96478C;
+  font-family: 'Fredoka One', cursive;
+  width: 80px;
+  margin: auto;
+}
+

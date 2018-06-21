@@ -1,0 +1,64 @@
+input{
+  border-radius: 10px;
+  border: solid 3px #6D4C93;
+}
+
+a{
+  text-decoration: none;
+  color: #6D4C93;
+}
+a:visited{
+  color: #C65E78;
+}
+
+
+textarea{
+  border-radius: 10px;
+  border: solid 3px #6D4C93;
+  margin: 5px;
+}
+
+#inputs{
+  color: #1F1C62;
+  font-family: 'Fredoka One', cursive;
+  font-size: 1.2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 40%;
+
+}
+
+button{
+  color: #96478C;
+  height: 25px;
+  border-radius: 10px;
+  border: 2px solid #96478C;
+  font-family: 'Fredoka One', cursive;
+  width: 40px;
+}
+
+.notes{
+  color: #C65E78;
+  font-family: 'Fredoka One', cursive;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-left: 40%;
+  height: 60%;
+}
+
+.note{
+  background-color: #F9DDE4;
+  border-radius: 10px;
+  border: solid 3px #6D4C93;
+  width: 15%;
+  padding: 2% 5%;
+  display: flex;
+  flex-direction: column;
+}
+
+.delete{
+  margin-left: 80%;
+}

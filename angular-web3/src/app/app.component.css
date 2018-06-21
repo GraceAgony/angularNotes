@@ -1,0 +1,28 @@
+#app{
+  background-image: url("../images/light.png");
+  min-height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 95vh;
+  width: 80vw;
+  margin: auto;
+  color: black;
+  border-radius: 10px;
+  border: solid 3px #6D4C93;
+
+}
+.head{
+  height: 8%;
+  background-color: #D3A3CD;
+  color: #F9DDE4;
+  text-align: center;
+  padding-top: 4%;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 4%;
+  text-align: center;
+  font-family: 'Fredoka One', cursive;
+}
+

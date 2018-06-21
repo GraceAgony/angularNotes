@@ -1,0 +1,8 @@
+<div id = "noteDetails">
+<div *ngIf="note">
+    <h3 id="noteTitle">{{note.title}}</h3>
+    <div id="noteText">{{note.text}}</div>
+    <div id="noteDate">{{note.date}}</div>
+  </div>
+  <button (click)="goBack()">go back</button>
+</div>
